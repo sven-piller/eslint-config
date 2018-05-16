@@ -1,12 +1,12 @@
 {
   "name": "@svenpiller/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint Config for personal projects, highly opinionated",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sven Piller <sven.piller@gmail.com> (https://github.com/sven-piller\\)",
+  "author": "Sven Piller <sven.piller@gmail.com> (https://github.com/sven-piller)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -17,32 +17,33 @@
   },
   "homepage": "https://github.com/sven-piller/eslint-config#readme",
   "dependencies": {},
+  "readme": "README.md",
   "peerDependencies": {
-    "eslint": "4.19.1",
-    "eslint-config-angular": "0.5.0",
-    "eslint-config-standard": "11.0.0",
-    "eslint-plugin-angular": "3.3.0",
-    "eslint-plugin-import": "2.9.0",
-    "eslint-plugin-jasmine": "2.9.3",
-    "eslint-plugin-mocha": "5.0.0",
-    "eslint-plugin-node": "6.0.1",
-    "eslint-plugin-promise": "3.7.0",
-    "eslint-plugin-protractor": "1.40.0",
-    "eslint-plugin-react": "7.7.0",
-    "eslint-plugin-standard": "3.1.0"
+    "eslint": "^4.19.1",
+    "eslint-config-angular": "^0.5.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-angular": "^3.3.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jasmine": "^2.9.3",
+    "eslint-plugin-mocha": "^5.0.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-protractor": "^1.40.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.1.0"
   },
   "devDependencies": {
-    "eslint": "4.19.1",
-    "eslint-config-angular": "0.5.0",
-    "eslint-config-standard": "11.0.0",
-    "eslint-plugin-angular": "3.3.0",
-    "eslint-plugin-import": "2.9.0",
-    "eslint-plugin-jasmine": "2.9.3",
-    "eslint-plugin-mocha": "5.0.0",
-    "eslint-plugin-node": "6.0.1",
-    "eslint-plugin-promise": "3.7.0",
-    "eslint-plugin-protractor": "1.40.0",
-    "eslint-plugin-react": "7.7.0",
-    "eslint-plugin-standard": "3.1.0"
+    "eslint": "^4.19.1",
+    "eslint-config-angular": "^0.5.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-angular": "^3.3.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jasmine": "^2.9.3",
+    "eslint-plugin-mocha": "^5.0.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-protractor": "^1.40.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.1.0"
   }
 }
